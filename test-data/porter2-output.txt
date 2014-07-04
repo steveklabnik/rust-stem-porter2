@@ -1128,7 +1128,7 @@ assembled
 assemblies
 assembly
 assent
-asses
+ass
 assez
 assign
 assigned
@@ -2153,7 +2153,7 @@ bless
 blessed
 blessedly
 blessedness
-blesses
+bless
 blesseth
 blessing
 blessings
@@ -2776,11 +2776,11 @@ busied
 busily
 busines
 business
-businesses
+business
 buskin
 busky
 buss
-busses
+buss
 bussing
 bustle
 bustling
@@ -2833,7 +2833,7 @@ cables
 cackling
 cacodemon
 caddis
-caddisses
+caddiss
 cade
 cadence
 cadent
@@ -3013,7 +3013,7 @@ carcanet
 carcase
 carcases
 carcass
-carcasses
+carcass
 card
 cardecue
 carded
@@ -4035,7 +4035,7 @@ comparison
 comparisons
 compartner
 compass
-compasses
+compass
 compassing
 compassion
 compassionate
@@ -4183,7 +4183,7 @@ conferr
 conferring
 confess
 confessed
-confesses
+confess
 confesseth
 confessing
 confession
@@ -4648,7 +4648,7 @@ counterpoise
 counters
 countervail
 countess
-countesses
+countess
 counties
 counting
 countless
@@ -4880,7 +4880,7 @@ cropp
 crosby
 cross
 crossed
-crosses
+cross
 crossest
 crossing
 crossings
@@ -6110,7 +6110,7 @@ distrain
 distraught
 distress
 distressed
-distresses
+distress
 distressful
 distribute
 distributed
@@ -7252,7 +7252,7 @@ essays
 essence
 essential
 essentially
-esses
+ess
 essex
 est
 establish
@@ -8436,7 +8436,7 @@ fortinbras
 fortitude
 fortnight
 fortress
-fortresses
+fortress
 forts
 fortun
 fortuna
@@ -8746,7 +8746,7 @@ galleys
 gallia
 gallian
 galliard
-galliasses
+galliass
 gallimaufry
 galling
 gallons
@@ -8755,7 +8755,7 @@ galloping
 gallops
 gallow
 galloway
-gallowglasses
+gallowglass
 gallows
 gallowses
 galls
@@ -9014,7 +9014,7 @@ glansdale
 glare
 glares
 glass
-glasses
+glass
 glassy
 glaz
 glazed
@@ -9058,7 +9058,7 @@ gloriously
 glory
 glose
 gloss
-glosses
+gloss
 glou
 glouceste
 gloucester
@@ -9109,7 +9109,7 @@ god
 godded
 godden
 goddess
-goddesses
+goddess
 goddild
 godfather
 godfathers
@@ -9425,7 +9425,7 @@ gudgeon
 guerdon
 guerra
 guess
-guesses
+guess
 guessingly
 guest
 guests
@@ -10000,7 +10000,7 @@ hirtius
 his
 hisperia
 hiss
-hisses
+hiss
 hissing
 hist
 historical
@@ -11182,7 +11182,7 @@ jerks
 jeronimy
 jerusalem
 jeshu
-jesses
+jess
 jessica
 jest
 jested
@@ -11400,7 +11400,7 @@ kindlier
 kindling
 kindly
 kindness
-kindnesses
+kindness
 kindred
 kindreds
 kinds
@@ -11419,7 +11419,7 @@ kirtle
 kirtles
 kiss
 kissed
-kisses
+kiss
 kissing
 kitchen
 kitchens
@@ -11625,7 +11625,7 @@ las
 lascivious
 lash
 lass
-lasses
+lass
 last
 lasted
 lasting
@@ -12159,7 +12159,7 @@ losest
 loseth
 losing
 loss
-losses
+loss
 lost
 lot
 lots
@@ -12603,7 +12603,7 @@ masquing
 mass
 massacre
 massacres
-masses
+mass
 massy
 mast
 mastcr
@@ -12839,7 +12839,7 @@ messala
 messaline
 messenger
 messengers
-messes
+mess
 messina
 met
 metal
@@ -13069,7 +13069,7 @@ misquote
 misreport
 miss
 missed
-misses
+miss
 misshap
 misshapen
 missheathed
@@ -13098,7 +13098,7 @@ mistletoe
 mistook
 mistreadings
 mistress
-mistresses
+mistress
 mistresss
 mistriship
 mistrust
@@ -14107,7 +14107,7 @@ opposition
 oppositions
 oppress
 oppressed
-oppresses
+oppress
 oppresseth
 oppressing
 oppression
@@ -14618,7 +14618,7 @@ passant
 passed
 passenger
 passengers
-passes
+pass
 passeth
 passing
 passio
@@ -15499,7 +15499,7 @@ positively
 posse
 possess
 possessed
-possesses
+possess
 possesseth
 possessing
 possession
@@ -15743,7 +15743,7 @@ president
 press
 pressed
 presser
-presses
+press
 pressing
 pressure
 pressures
@@ -15922,7 +15922,7 @@ profaners
 profaning
 profess
 professed
-professes
+profess
 profession
 professions
 professors
@@ -16719,7 +16719,7 @@ redoubted
 redound
 redress
 redressed
-redresses
+redress
 reduce
 reechy
 reed
@@ -18308,7 +18308,7 @@ shent
 shepherd
 shepherdes
 shepherdess
-shepherdesses
+shepherdess
 shepherds
 sher
 sheriff
@@ -19784,7 +19784,7 @@ succeeding
 succeeds
 success
 successantly
-successes
+success
 successful
 successfully
 succession
@@ -20957,7 +20957,7 @@ transformation
 transformations
 transformed
 transgress
-transgresses
+transgress
 transgressing
 transgression
 translate
@@ -21041,9 +21041,9 @@ trenching
 trent
 tres
 trespass
-trespasses
+trespass
 tressel
-tresses
+tress
 treys
 trial
 trials
@@ -21325,7 +21325,7 @@ ugliest
 ugly
 ulcer
 ulcerous
-ulysses
+ulyss
 um
 umber
 umbra
@@ -23119,7 +23119,7 @@ wind
 winded
 windgalls
 winding
-windlasses
+windlass
 windmill
 window
 windows
@@ -23200,7 +23200,7 @@ withstanding
 withstood
 witless
 witness
-witnesses
+witness
 witnesseth
 witnessing
 wits
