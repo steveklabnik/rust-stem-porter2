@@ -1,8 +1,49 @@
 #![crate_id = "porter2#0.1.0"]
 #![crate_type = "lib"]
 
+use std::ascii;
+use std::ascii::Ascii;
+use std::vec::Vec;
+
+pub struct Stemmer {
+    b: Vec<ascii::Ascii>,
+    k: uint,
+    j: uint,
+}
+
+impl Stemmer {
+    pub fn new(word: &str) -> Result<Stemmer, &str> {
+        if !word.is_ascii() {
+            Err("Only support English words with ASCII characters")
+        } else {
+            let b = unsafe { word.to_ascii_nocheck().to_lower() };
+            let k = b.len();
+            Ok(Stemmer {
+                b: b,
+                k: k,
+                j: 0,
+            })
+        }
+    }
+
+    pub fn get(&self) -> String {
+        let borrowed = self.b.slice_to(self.k);
+        borrowed.as_str_ascii().into_string()
+    }
+}
+
 pub fn get(word: &str) -> Result<String, &str> {
-    Ok(word.into_string())
+    if word.len() > 2 {
+        match Stemmer::new(word) {
+            Ok(w) => {
+                let mut mw = w;
+                Ok(mw.get())
+            }
+            Err(e) => Err(e),
+        }
+    } else {
+        Ok(word.into_string())
+    }
 }
 
 #[cfg(test)]
