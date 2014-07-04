@@ -48,6 +48,12 @@ impl Stemmer {
     pub fn step1a(&mut self) {
         if self.ends("sses") {
             self.k -= 2;
+        } else if self.ends("ied") || self.ends("ies") {
+            if self.k > 4 {
+                self.k -= 2;
+            } else {
+                self.k -= 1;
+            }
         }
     }
 }

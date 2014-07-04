@@ -32,7 +32,7 @@ abhors
 abhorson
 abide
 abides
-abilities
+abiliti
 ability
 abject
 abjectly
@@ -122,7 +122,7 @@ accommodated
 accommodation
 accommodations
 accommodo
-accompanied
+accompani
 accompany
 accompanying
 accomplices
@@ -312,7 +312,7 @@ adulterate
 adulterates
 adulterers
 adulteress
-adulteries
+adulteri
 adulterous
 adultery
 adultress
@@ -336,11 +336,11 @@ adventures
 adventuring
 adventurous
 adventurously
-adversaries
+adversari
 adversary
 adverse
 adversely
-adversities
+adversiti
 adversity
 advertis
 advertise
@@ -399,7 +399,7 @@ affeer
 affianc
 affiance
 affianced
-affied
+affi
 affin
 affined
 affinity
@@ -568,8 +568,8 @@ alleys
 allhallowmas
 alliance
 allicholy
-allied
-allies
+alli
+alli
 alligant
 alligator
 allons
@@ -646,7 +646,7 @@ ambassador
 ambassadors
 amber
 ambiguides
-ambiguities
+ambiguiti
 ambiguous
 ambition
 ambitions
@@ -673,7 +673,7 @@ amidst
 amiens
 amis
 amiss
-amities
+amiti
 amity
 amnipotent
 among
@@ -688,7 +688,7 @@ amphimacus
 ample
 ampler
 amplest
-amplified
+amplifi
 amplify
 amply
 ampthill
@@ -707,7 +707,7 @@ anchorage
 anchored
 anchoring
 anchors
-anchovies
+anchovi
 ancient
 ancientry
 ancients
@@ -890,8 +890,8 @@ appletart
 appliance
 appliances
 applications
-applied
-applies
+appli
+appli
 apply
 applying
 appoint
@@ -967,7 +967,7 @@ are
 argal
 argier
 argo
-argosies
+argosi
 argosy
 argu
 argue
@@ -980,10 +980,10 @@ argus
 ariachne
 ariadne
 ariel
-aries
+ari
 aright
 arinado
-arinies
+arini
 arion
 arise
 arises
@@ -1002,7 +1002,7 @@ armagnac
 arme
 armed
 armenia
-armies
+armi
 armigero
 arming
 armipotent
@@ -1045,7 +1045,7 @@ arrow
 arrows
 art
 artemidorus
-arteries
+arteri
 arthur
 article
 articles
@@ -1125,7 +1125,7 @@ assays
 assemblance
 assemble
 assembled
-assemblies
+assembli
 assembly
 assent
 ass
@@ -1178,7 +1178,7 @@ athol
 athversary
 athwart
 atlas
-atomies
+atomi
 atomy
 atone
 atonement
@@ -1280,7 +1280,7 @@ austria
 aut
 authentic
 author
-authorities
+authoriti
 authority
 authorized
 authorizing
@@ -1355,7 +1355,7 @@ babble
 babbling
 babe
 babes
-babies
+babi
 baboon
 baboons
 baby
@@ -1441,7 +1441,7 @@ bames
 ban
 banbury
 band
-bandied
+bandi
 banding
 bandit
 banditti
@@ -1663,9 +1663,9 @@ beaufort
 beaumond
 beaumont
 beauteous
-beautied
-beauties
-beautified
+beauti
+beauti
+beautifi
 beautiful
 beautify
 beauty
@@ -1799,7 +1799,7 @@ beldams
 belee
 belgia
 belie
-belied
+beli
 belief
 beliest
 believ
@@ -1812,8 +1812,8 @@ belike
 bell
 bellario
 belle
-bellied
-bellies
+belli
+belli
 bellman
 bellona
 bellow
@@ -1867,7 +1867,7 @@ benefits
 benetted
 benevolence
 benevolences
-benied
+beni
 benison
 bennet
 bent
@@ -1901,7 +1901,7 @@ bernardo
 berod
 berowne
 berri
-berries
+berri
 berrord
 berry
 bertram
@@ -2085,7 +2085,7 @@ blabs
 black
 blackamoor
 blackamoors
-blackberries
+blackberri
 blackberry
 blacker
 blackest
@@ -2182,7 +2182,7 @@ blois
 blood
 blooded
 bloodhound
-bloodied
+bloodi
 bloodier
 bloodiest
 bloodily
@@ -2261,8 +2261,8 @@ boded
 bodements
 bodes
 bodg
-bodied
-bodies
+bodi
+bodi
 bodiless
 bodily
 boding
@@ -2334,7 +2334,7 @@ boorish
 boors
 boot
 booted
-booties
+booti
 bootless
 boots
 booty
@@ -2395,7 +2395,7 @@ boundless
 bounds
 bounteous
 bounteously
-bounties
+bounti
 bountiful
 bountifully
 bounty
@@ -2745,7 +2745,7 @@ burgomasters
 burgonet
 burgundy
 burial
-buried
+buri
 burier
 buriest
 burly
@@ -2772,7 +2772,7 @@ bush
 bushels
 bushes
 bushy
-busied
+busi
 busily
 busines
 business
@@ -2789,7 +2789,7 @@ but
 butcheed
 butcher
 butchered
-butcheries
+butcheri
 butcherly
 butchers
 butchery
@@ -2797,7 +2797,7 @@ butler
 butt
 butter
 buttered
-butterflies
+butterfli
 butterfly
 butterwoman
 buttery
@@ -2860,7 +2860,7 @@ cake
 cakes
 calaber
 calais
-calamities
+calamiti
 calamity
 calchas
 calculate
@@ -2915,7 +2915,7 @@ camping
 camps
 can
 canakin
-canaries
+canari
 canary
 cancel
 cancell
@@ -2924,7 +2924,7 @@ cancelling
 cancels
 cancer
 candidatus
-candied
+candi
 candle
 candles
 candlesticks
@@ -2945,8 +2945,8 @@ canoniz
 canonize
 canonized
 canons
-canopied
-canopies
+canopi
+canopi
 canopy
 canst
 canstick
@@ -2960,7 +2960,7 @@ canzonet
 cap
 capability
 capable
-capacities
+capaciti
 capacity
 caparison
 capdv
@@ -3060,10 +3060,10 @@ carpets
 carping
 carriage
 carriages
-carried
+carri
 carrier
 carriers
-carries
+carri
 carrion
 carrions
 carry
@@ -3118,7 +3118,7 @@ castles
 casts
 casual
 casually
-casualties
+casualti
 casualty
 cat
 cataian
@@ -3214,7 +3214,7 @@ centaur
 centaurs
 centre
 cents
-centuries
+centuri
 centurion
 centurions
 century
@@ -3222,7 +3222,7 @@ cerberus
 cerecloth
 cerements
 ceremonial
-ceremonies
+ceremoni
 ceremonious
 ceremoniously
 ceremony
@@ -3231,12 +3231,12 @@ cerns
 certain
 certainer
 certainly
-certainties
+certainti
 certainty
 certes
 certificate
-certified
-certifies
+certifi
+certifi
 certify
 ces
 cesario
@@ -3307,7 +3307,7 @@ chanson
 chant
 chanticleer
 chanting
-chantries
+chantri
 chantry
 chants
 chaos
@@ -3346,7 +3346,7 @@ chariot
 chariots
 charitable
 charitably
-charities
+chariti
 charity
 charlemain
 charles
@@ -3430,7 +3430,7 @@ cherished
 cherisher
 cherishes
 cherishing
-cherries
+cherri
 cherry
 cherrypit
 chertsey
@@ -3624,7 +3624,7 @@ cital
 cite
 cited
 cites
-cities
+citi
 citing
 citizen
 citizens
@@ -3696,7 +3696,7 @@ cleopatpa
 cleopatra
 clepeth
 clept
-clerestories
+clerestori
 clergy
 clergyman
 clergymen
@@ -3801,7 +3801,7 @@ clusters
 clutch
 clyster
 cneius
-cnemies
+cnemi
 co
 coach
 coaches
@@ -3891,7 +3891,7 @@ collected
 collection
 college
 colleges
-collied
+colli
 collier
 colliers
 collop
@@ -3982,7 +3982,7 @@ commended
 commending
 commends
 comment
-commentaries
+commentari
 commenting
 comments
 commerce
@@ -4001,7 +4001,7 @@ commixed
 commixtion
 commixture
 commodious
-commodities
+commoditi
 commodity
 common
 commonalty
@@ -4017,11 +4017,11 @@ commune
 communicat
 communicate
 communication
-communities
+communiti
 community
 comonty
 compact
-companies
+compani
 companion
 companions
 companionship
@@ -4069,7 +4069,7 @@ complexion
 complexioned
 complexions
 complices
-complies
+compli
 compliment
 complimental
 compliments
@@ -4108,7 +4108,7 @@ comrades
 comutual
 con
 concave
-concavities
+concaviti
 conceal
 concealed
 concealing
@@ -4206,7 +4206,7 @@ confirmed
 confirmer
 confirmers
 confirming
-confirmities
+confirmiti
 confirms
 confiscate
 confiscated
@@ -4238,7 +4238,7 @@ congealment
 congee
 conger
 congest
-congied
+congi
 congratulate
 congreeing
 congreeted
@@ -4248,7 +4248,7 @@ congregation
 congregations
 congruent
 congruing
-conies
+coni
 conjectural
 conjecture
 conjectures
@@ -4326,7 +4326,7 @@ consonant
 consort
 consorted
 consortest
-conspectuities
+conspectuiti
 conspir
 conspiracy
 conspirant
@@ -4340,7 +4340,7 @@ conspiring
 constable
 constables
 constance
-constancies
+constanci
 constancy
 constant
 constantine
@@ -4429,8 +4429,8 @@ contradict
 contradicted
 contradiction
 contradicts
-contraries
-contrarieties
+contrari
+contrarieti
 contrariety
 contrarious
 contrariously
@@ -4508,8 +4508,8 @@ cop
 copatain
 cope
 cophetua
-copied
-copies
+copi
+copi
 copious
 copper
 copperspur
@@ -4649,10 +4649,10 @@ counters
 countervail
 countess
 countess
-counties
+counti
 counting
 countless
-countries
+countri
 countrv
 country
 countryman
@@ -4686,7 +4686,7 @@ courted
 courteous
 courteously
 courtesan
-courtesies
+courtesi
 courtesy
 courtezan
 courtezans
@@ -4759,7 +4759,7 @@ cradled
 cradles
 craft
 crafted
-craftied
+crafti
 craftier
 craftily
 crafts
@@ -4773,8 +4773,8 @@ crams
 cranking
 cranks
 cranmer
-crannied
-crannies
+cranni
+cranni
 cranny
 crants
 crare
@@ -4842,10 +4842,10 @@ cribb
 cribs
 cricket
 crickets
-cried
+cri
 criedst
 crier
-cries
+cri
 criest
 crieth
 crime
@@ -4981,7 +4981,7 @@ curbed
 curbing
 curbs
 curd
-curdied
+curdi
 curds
 cure
 cured
@@ -5008,7 +5008,7 @@ curs
 curse
 cursed
 curses
-cursies
+cursi
 cursing
 cursorary
 curst
@@ -5022,8 +5022,8 @@ curtains
 curtal
 curtis
 curtle
-curtsied
-curtsies
+curtsi
+curtsi
 curtsy
 curvet
 curvets
@@ -5079,19 +5079,19 @@ daggers
 dagonet
 daily
 daintier
-dainties
+dainti
 daintiest
 daintily
 daintiness
 daintry
 dainty
-daisied
-daisies
+daisi
+daisi
 daisy
 dale
 dalliance
-dallied
-dallies
+dalli
+dalli
 dally
 dallying
 dalmatians
@@ -5352,8 +5352,8 @@ defer
 deferr
 defiance
 deficient
-defied
-defies
+defi
+defi
 defil
 defile
 defiler
@@ -5369,7 +5369,7 @@ deflower
 deflowered
 deform
 deformed
-deformities
+deformiti
 deformity
 deftly
 defunct
@@ -5381,12 +5381,12 @@ degenerate
 degraded
 degree
 degrees
-deified
+deifi
 deifying
 deign
 deigned
 deiphobus
-deities
+deiti
 deity
 deja
 deject
@@ -5450,9 +5450,9 @@ denay
 deni
 denial
 denials
-denied
+deni
 denier
-denies
+deni
 deniest
 denis
 denmark
@@ -5494,7 +5494,7 @@ depos
 depose
 deposed
 deposing
-depositaries
+depositari
 deprav
 depravation
 deprave
@@ -5508,7 +5508,7 @@ depths
 deputation
 depute
 deputed
-deputies
+deputi
 deputing
 deputy
 deracinate
@@ -5539,7 +5539,7 @@ descents
 describe
 described
 describes
-descried
+descri
 description
 descriptions
 descry
@@ -5593,7 +5593,7 @@ despoiled
 dest
 destin
 destined
-destinies
+destini
 destiny
 destitute
 destroy
@@ -5658,7 +5658,7 @@ devours
 devout
 devoutly
 dew
-dewberries
+dewberri
 dewdrops
 dewlap
 dewlapp
@@ -5700,9 +5700,9 @@ didest
 dido
 didst
 die
-died
+die
 diedst
-dies
+die
 diest
 diet
 dieted
@@ -5718,7 +5718,7 @@ differing
 differs
 difficile
 difficult
-difficulties
+difficulti
 difficulty
 diffidence
 diffidences
@@ -5733,10 +5733,10 @@ digestions
 digg
 digging
 dighton
-dignified
-dignifies
+dignifi
+dignifi
 dignify
-dignities
+digniti
 dignity
 digress
 digressing
@@ -5888,7 +5888,7 @@ discov
 discover
 discovered
 discoverers
-discoveries
+discoveri
 discovering
 discovers
 discovery
@@ -6031,7 +6031,7 @@ disprais
 dispraise
 dispraising
 dispraisingly
-dispropertied
+disproperti
 disproportion
 disproportioned
 disprov
@@ -6129,7 +6129,7 @@ ditch
 ditchers
 ditches
 dites
-ditties
+ditti
 ditty
 diurnal
 div
@@ -6305,7 +6305,7 @@ downtrod
 downward
 downwards
 downy
-dowries
+dowri
 dowry
 dowsabel
 doxy
@@ -6373,9 +6373,9 @@ dressings
 drest
 drew
 dribbling
-dried
+dri
 drier
-dries
+dri
 drift
 drily
 drink
@@ -6412,8 +6412,8 @@ droppeth
 dropping
 droppings
 drops
-dropsied
-dropsies
+dropsi
+dropsi
 dropsy
 dropt
 dross
@@ -6458,7 +6458,7 @@ ducat
 ducats
 ducdame
 duchess
-duchies
+duchi
 duchy
 duck
 ducking
@@ -6518,7 +6518,7 @@ dusty
 dutch
 dutchman
 duteous
-duties
+duti
 dutiful
 duty
 dwarf
@@ -6607,7 +6607,7 @@ eclipses
 ecolier
 ecoutez
 ecstacy
-ecstasies
+ecstasi
 ecstasy
 ecus
 eden
@@ -6621,8 +6621,8 @@ edict
 edicts
 edifice
 edifices
-edified
-edifies
+edifi
+edifi
 edition
 edm
 edmund
@@ -6641,7 +6641,7 @@ effects
 effectual
 effectually
 effeminate
-effigies
+effigi
 effus
 effuse
 effusion
@@ -6686,7 +6686,7 @@ elect
 elected
 election
 elegancy
-elegies
+elegi
 element
 elements
 elephant
@@ -6722,7 +6722,7 @@ embarked
 embarquements
 embassade
 embassage
-embassies
+embassi
 embassy
 embattailed
 embattl
@@ -6733,7 +6733,7 @@ embers
 emblaze
 emblem
 emblems
-embodied
+embodi
 embold
 emboldens
 emboss
@@ -6776,9 +6776,9 @@ employment
 employments
 empoison
 empress
-emptied
+empti
 emptier
-empties
+empti
 emptiness
 empty
 emptying
@@ -6866,9 +6866,9 @@ endures
 enduring
 endymion
 eneas
-enemies
+enemi
 enemy
-enernies
+enerni
 enew
 enfeebled
 enfeebles
@@ -6941,7 +6941,7 @@ enlargeth
 enlighten
 enlink
 enmesh
-enmities
+enmiti
 enmity
 ennoble
 ennobled
@@ -6987,7 +6987,7 @@ enshielded
 enshrines
 ensign
 ensigns
-enskied
+enski
 ensman
 ensnare
 ensnared
@@ -7039,7 +7039,7 @@ entrapp
 entre
 entreat
 entreated
-entreaties
+entreati
 entreating
 entreatments
 entreats
@@ -7051,8 +7051,8 @@ envelop
 envenom
 envenomed
 envenoms
-envied
-envies
+envi
+envi
 envious
 enviously
 environ
@@ -7087,7 +7087,7 @@ epitheton
 epithets
 epitome
 equal
-equalities
+equaliti
 equality
 equall
 equally
@@ -7240,8 +7240,8 @@ especial
 especially
 esperance
 espials
-espied
-espies
+espi
+espi
 espous
 espouse
 espy
@@ -7359,7 +7359,7 @@ exceeds
 excel
 excelled
 excellence
-excellencies
+excellenci
 excellency
 excellent
 excellently
@@ -7412,7 +7412,7 @@ executor
 executors
 exempt
 exempted
-exequies
+exequi
 exercise
 exercises
 exeter
@@ -7548,7 +7548,7 @@ extreme
 extremely
 extremes
 extremest
-extremities
+extremiti
 extremity
 exuent
 exult
@@ -7595,7 +7595,7 @@ factions
 factious
 factor
 factors
-faculties
+faculti
 faculty
 fade
 faded
@@ -7621,7 +7621,7 @@ faints
 fair
 fairer
 fairest
-fairies
+fairi
 fairing
 fairings
 fairly
@@ -7683,7 +7683,7 @@ famoused
 famously
 fan
 fanatical
-fancies
+fanci
 fancy
 fane
 fanes
@@ -7694,8 +7694,8 @@ fangs
 fann
 fanning
 fans
-fantasied
-fantasies
+fantasi
+fantasi
 fantastic
 fantastical
 fantastically
@@ -7857,7 +7857,7 @@ felicitate
 felicity
 fell
 fellest
-fellies
+felli
 fellow
 fellowly
 fellows
@@ -8041,7 +8041,7 @@ fisher
 fishermen
 fishers
 fishes
-fishified
+fishifi
 fishmonger
 fishpond
 fisnomy
@@ -8105,7 +8105,7 @@ flattered
 flatterer
 flatterers
 flatterest
-flatteries
+flatteri
 flattering
 flatters
 flattery
@@ -8148,7 +8148,7 @@ flibbertigibbet
 flickering
 flidge
 fliers
-flies
+fli
 flieth
 flight
 flights
@@ -8243,7 +8243,7 @@ folds
 folio
 folk
 folks
-follies
+folli
 follow
 followed
 follower
@@ -8260,7 +8260,7 @@ font
 fontibell
 food
 fool
-fooleries
+fooleri
 foolery
 foolhardy
 fooling
@@ -8374,7 +8374,7 @@ forg
 forgave
 forge
 forged
-forgeries
+forgeri
 forgery
 forges
 forget
@@ -8429,8 +8429,8 @@ forthright
 forthwith
 fortification
 fortifications
-fortified
-fortifies
+fortifi
+fortifi
 fortify
 fortinbras
 fortitude
@@ -8452,7 +8452,7 @@ forward
 forwarding
 forwardness
 forwards
-forwearied
+forweari
 fosset
 fost
 foster
@@ -8494,7 +8494,7 @@ fragments
 fragrant
 frail
 frailer
-frailties
+frailti
 frailty
 fram
 frame
@@ -8673,7 +8673,7 @@ funeral
 funerals
 fur
 furbish
-furies
+furi
 furious
 furlongs
 furnace
@@ -8836,7 +8836,7 @@ gather
 gathered
 gathering
 gathers
-gatories
+gatori
 gatory
 gaud
 gaudeo
@@ -8975,7 +8975,7 @@ ginn
 gins
 gioucestershire
 gipes
-gipsies
+gipsi
 gipsy
 gird
 girded
@@ -9050,8 +9050,8 @@ globe
 globes
 glooming
 gloomy
-glories
-glorified
+glori
+glorifi
 glorify
 glorious
 gloriously
@@ -9165,7 +9165,7 @@ gooseberry
 goosequills
 goot
 gor
-gorbellied
+gorbelli
 gorboduc
 gordian
 gore
@@ -9226,7 +9226,7 @@ grafters
 grain
 grained
 grains
-gramercies
+gramerci
 gramercy
 grammar
 grand
@@ -9283,7 +9283,7 @@ graver
 graves
 gravest
 gravestone
-gravities
+graviti
 gravity
 gravy
 gray
@@ -9603,7 +9603,7 @@ happ
 happen
 happened
 happier
-happies
+happi
 happiest
 happily
 happiness
@@ -9649,7 +9649,7 @@ harper
 harpier
 harping
 harpy
-harried
+harri
 harrow
 harrows
 harry
@@ -9786,7 +9786,7 @@ heathen
 heathenish
 heating
 heats
-heauties
+heauti
 heav
 heave
 heaved
@@ -9899,7 +9899,7 @@ hereford
 herefordshire
 herein
 hereof
-heresies
+heresi
 heresy
 heretic
 heretics
@@ -9951,9 +9951,9 @@ hides
 hidest
 hiding
 hie
-hied
+hie
 hiems
-hies
+hie
 hig
 high
 higher
@@ -10307,8 +10307,8 @@ hurly
 hurlyburly
 hurricano
 hurricanoes
-hurried
-hurries
+hurri
+hurri
 hurry
 hurt
 hurting
@@ -10488,12 +10488,12 @@ impertinent
 impeticos
 impetuosity
 impetuous
-impieties
+impieti
 impiety
 impious
 implacable
 implements
-implies
+impli
 implor
 implorators
 implore
@@ -10521,7 +10521,7 @@ impose
 imposed
 imposition
 impositions
-impossibilities
+impossibiliti
 impossibility
 impossible
 imposthume
@@ -10578,7 +10578,7 @@ incensement
 incenses
 incensing
 incertain
-incertainties
+incertainti
 incertainty
 incessant
 incessantly
@@ -10648,7 +10648,7 @@ indian
 indict
 indicted
 indictment
-indies
+indi
 indifferency
 indifferent
 indifferently
@@ -10659,7 +10659,7 @@ indign
 indignation
 indignations
 indigne
-indignities
+indigniti
 indignity
 indirect
 indirection
@@ -10731,7 +10731,7 @@ infinite
 infinitely
 infinitive
 infirm
-infirmities
+infirmiti
 infirmity
 infixed
 infixing
@@ -10795,7 +10795,7 @@ inhibited
 inhibition
 inhoop
 inhuman
-iniquities
+iniquiti
 iniquity
 initiate
 injointed
@@ -10804,7 +10804,7 @@ injunctions
 injur
 injure
 injurer
-injuries
+injuri
 injurious
 injury
 injustice
@@ -10980,7 +10980,7 @@ interpreters
 interprets
 interr
 interred
-interrogatories
+interrogatori
 interrupt
 interrupted
 interrupter
@@ -11027,7 +11027,7 @@ invention
 inventions
 inventor
 inventorially
-inventoried
+inventori
 inventors
 inventory
 inverness
@@ -11158,7 +11158,7 @@ jasons
 jaunce
 jauncing
 jaundice
-jaundies
+jaundi
 jaw
 jawbone
 jaws
@@ -11167,7 +11167,7 @@ jays
 jc
 je
 jealous
-jealousies
+jealousi
 jealousy
 jeer
 jeering
@@ -11315,7 +11315,7 @@ justicer
 justicers
 justices
 justification
-justified
+justifi
 justify
 justle
 justled
@@ -11334,7 +11334,7 @@ kates
 katharine
 katherina
 katherine
-kecksies
+kecksi
 keech
 keel
 keels
@@ -11434,7 +11434,7 @@ knacks
 knapp
 knav
 knave
-knaveries
+knaveri
 knavery
 knaves
 knavish
@@ -11504,7 +11504,7 @@ lace
 laced
 lacedaemon
 laces
-lacies
+laci
 lack
 lackbeard
 lacked
@@ -11518,7 +11518,7 @@ ladder
 ladders
 lade
 laden
-ladies
+ladi
 lading
 lads
 lady
@@ -11773,7 +11773,7 @@ leet
 leets
 left
 leg
-legacies
+legaci
 legacy
 legate
 legatine
@@ -11836,8 +11836,8 @@ lessons
 lest
 lestrake
 let
-lethargied
-lethargies
+lethargi
+lethargi
 lethargy
 lethe
 lets
@@ -11856,8 +11856,8 @@ leven
 levers
 leviathan
 leviathans
-levied
-levies
+levi
+levi
 levity
 levy
 levying
@@ -11875,7 +11875,7 @@ libels
 liberal
 liberality
 liberte
-liberties
+liberti
 libertine
 libertines
 liberty
@@ -11894,14 +11894,14 @@ lictors
 lid
 lids
 lie
-lied
+lie
 lief
 liefest
 liege
 liegeman
 liegemen
 lien
-lies
+lie
 liest
 lieth
 lieu
@@ -11947,7 +11947,7 @@ likest
 likewise
 liking
 likings
-lilies
+lili
 lily
 lim
 limander
@@ -12026,7 +12026,7 @@ livelihood
 livelong
 lively
 liver
-liveries
+liveri
 livers
 livery
 lives
@@ -12064,7 +12064,7 @@ loathsomeness
 loathsomest
 loaves
 lob
-lobbies
+lobbi
 lobby
 local
 lochaber
@@ -12206,7 +12206,7 @@ lown
 lowness
 loyal
 loyally
-loyalties
+loyalti
 loyalty
 lozel
 lt
@@ -12253,7 +12253,7 @@ lumbert
 lump
 lumpish
 luna
-lunacies
+lunaci
 lunacy
 lunatic
 lunatics
@@ -12387,7 +12387,7 @@ majestee
 majestic
 majestical
 majestically
-majesties
+majesti
 majesty
 major
 majority
@@ -12403,7 +12403,7 @@ making
 makings
 mal
 mala
-maladies
+maladi
 malady
 malapert
 malcolm
@@ -12526,7 +12526,7 @@ margery
 maria
 marian
 mariana
-maries
+mari
 marigold
 mariner
 mariners
@@ -12549,8 +12549,8 @@ marquis
 marr
 marriage
 marriages
-married
-marries
+marri
+marri
 marring
 marrow
 marrowless
@@ -12740,7 +12740,7 @@ mehercle
 meilleur
 meiny
 meisen
-melancholies
+melancholi
 melancholy
 melford
 mell
@@ -12762,7 +12762,7 @@ memorable
 memorandums
 memorial
 memorials
-memories
+memori
 memoriz
 memorize
 memory
@@ -12790,19 +12790,19 @@ mephostophilus
 mer
 mercatante
 mercatio
-mercenaries
+mercenari
 mercenary
 mercer
 merchandise
 merchandized
 merchant
 merchants
-mercies
+merci
 merciful
 mercifully
 merciless
 mercurial
-mercuries
+mercuri
 mercury
 mercutio
 mercy
@@ -12994,7 +12994,7 @@ mis
 misadventur
 misadventure
 misanthropos
-misapplied
+misappli
 misbecame
 misbecom
 misbecome
@@ -13005,8 +13005,8 @@ misbelieving
 misbhav
 miscall
 miscalled
-miscarried
-miscarries
+miscarri
+miscarri
 miscarry
 miscarrying
 mischance
@@ -13034,7 +13034,7 @@ miser
 miserable
 miserably
 misericorde
-miseries
+miseri
 misers
 misery
 misfortune
@@ -13129,7 +13129,7 @@ mobled
 mock
 mockable
 mocker
-mockeries
+mockeri
 mockers
 mockery
 mocking
@@ -13143,7 +13143,7 @@ moderately
 moderation
 modern
 modest
-modesties
+modesti
 modestly
 modesty
 modicums
@@ -13172,7 +13172,7 @@ moming
 mon
 monachum
 monarch
-monarchies
+monarchi
 monarchize
 monarcho
 monarchs
@@ -13268,7 +13268,7 @@ mortally
 mortals
 mortar
 mortgaged
-mortified
+mortifi
 mortifying
 mortimer
 mortimers
@@ -13359,7 +13359,7 @@ much
 muck
 mud
 mudded
-muddied
+muddi
 muddy
 muffins
 muffl
@@ -13369,7 +13369,7 @@ muffler
 muffling
 mugger
 mugs
-mulberries
+mulberri
 mulberry
 mule
 mules
@@ -13379,7 +13379,7 @@ mulieres
 muliteus
 mull
 mulmutius
-multiplied
+multipli
 multiply
 multiplying
 multipotent
@@ -13461,7 +13461,7 @@ mutine
 mutineer
 mutineers
 mutines
-mutinies
+mutini
 mutinous
 mutiny
 mutius
@@ -13470,7 +13470,7 @@ muttered
 mutton
 muttons
 mutual
-mutualities
+mutualiti
 mutually
 muzzl
 muzzle
@@ -13484,7 +13484,7 @@ myrmidons
 myrtle
 myself
 myst
-mysteries
+mysteri
 mystery
 n
 nag
@@ -13566,11 +13566,11 @@ neb
 nebour
 nebuchadnezzar
 nec
-necessaries
+necessari
 necessarily
 necessary
-necessitied
-necessities
+necessiti
+necessiti
 necessity
 neck
 necklace
@@ -13828,7 +13828,7 @@ nourishing
 nourishment
 nous
 novel
-novelties
+novelti
 novelty
 noverbs
 novi
@@ -13924,7 +13924,7 @@ obscurely
 obscures
 obscuring
 obscurity
-obsequies
+obsequi
 obsequious
 obsequiously
 observ
@@ -13960,8 +13960,8 @@ occulted
 occupat
 occupation
 occupations
-occupied
-occupies
+occupi
+occupi
 occupy
 occurrence
 occurrences
@@ -14091,7 +14091,7 @@ ophelia
 opinion
 opinions
 opportune
-opportunities
+opportuniti
 opportunity
 oppos
 oppose
@@ -14142,7 +14142,7 @@ orderly
 orders
 ordinance
 ordinant
-ordinaries
+ordinari
 ordinary
 ordnance
 ords
@@ -14215,7 +14215,7 @@ outbrave
 outbraves
 outbreak
 outcast
-outcries
+outcri
 outcry
 outdar
 outdare
@@ -14384,7 +14384,7 @@ pac
 pace
 paced
 paces
-pacified
+pacifi
 pacify
 pacing
 pack
@@ -14456,8 +14456,8 @@ palmers
 palms
 palmy
 palpable
-palsied
-palsies
+palsi
+palsi
 palsy
 palt
 palter
@@ -14484,7 +14484,7 @@ pangs
 pannier
 pannonians
 pansa
-pansies
+pansi
 pant
 pantaloon
 panted
@@ -14588,11 +14588,11 @@ participate
 participation
 particle
 particular
-particularities
+particulariti
 particularize
 particularly
 particulars
-parties
+parti
 parting
 partisan
 partisans
@@ -14632,7 +14632,7 @@ passy
 past
 paste
 pasterns
-pasties
+pasti
 pastime
 pastimes
 pastoral
@@ -14785,7 +14785,7 @@ pelt
 pelting
 pembroke
 pen
-penalties
+penalti
 penalty
 penance
 pence
@@ -14845,7 +14845,7 @@ perceives
 perceiveth
 perch
 perchance
-percies
+perci
 percussion
 percy
 perdie
@@ -14903,7 +14903,7 @@ periwig
 perjur
 perjure
 perjured
-perjuries
+perjuri
 perjury
 perk
 perkes
@@ -15090,7 +15090,7 @@ piec
 piece
 pieces
 piecing
-pied
+pie
 piedness
 pier
 pierc
@@ -15101,7 +15101,7 @@ pierceth
 piercing
 piercy
 piers
-pies
+pie
 piety
 pig
 pigeon
@@ -15190,8 +15190,8 @@ pith
 pithless
 pithy
 pitie
-pitied
-pities
+piti
+piti
 pitiful
 pitifully
 pitiless
@@ -15304,7 +15304,7 @@ pleines
 plenitude
 plenteous
 plenteously
-plenties
+plenti
 plentiful
 plentifully
 plenty
@@ -15312,8 +15312,8 @@ pless
 plessed
 plessing
 pliant
-plied
-plies
+pli
+pli
 plight
 plighted
 plighter
@@ -15400,7 +15400,7 @@ polecats
 polemon
 poles
 poli
-policies
+polici
 policy
 polish
 polished
@@ -15491,8 +15491,8 @@ portraiture
 ports
 portugal
 pose
-posied
-posies
+posi
+posi
 position
 positive
 positively
@@ -15507,7 +15507,7 @@ possessions
 possessor
 posset
 possets
-possibilities
+possibiliti
 possibility
 possible
 possibly
@@ -15798,9 +15798,9 @@ pride
 prides
 pridge
 prie
-pried
+pri
 prief
-pries
+pri
 priest
 priesthood
 priests
@@ -15821,7 +15821,7 @@ princely
 princes
 princess
 principal
-principalities
+principaliti
 principality
 principle
 principles
@@ -15833,7 +15833,7 @@ printing
 printless
 prints
 prioress
-priories
+priori
 priority
 priory
 priscian
@@ -15901,7 +15901,7 @@ prodigal
 prodigality
 prodigally
 prodigals
-prodigies
+prodigi
 prodigious
 prodigiously
 prodigy
@@ -15997,12 +15997,12 @@ propension
 proper
 properer
 properly
-propertied
-properties
+properti
+properti
 property
-prophecies
+propheci
 prophecy
-prophesied
+prophesi
 prophesier
 prophesy
 prophesying
@@ -16117,8 +16117,8 @@ prying
 psalm
 psalmist
 psalms
-psalteries
-ptolemies
+psalteri
+ptolemi
 ptolemy
 public
 publican
@@ -16177,7 +16177,7 @@ pupil
 pupils
 puppet
 puppets
-puppies
+puppi
 puppy
 pur
 purblind
@@ -16199,7 +16199,7 @@ purge
 purged
 purgers
 purging
-purifies
+purifi
 purifying
 puritan
 purity
@@ -16239,7 +16239,7 @@ pushes
 pusillanimity
 put
 putrefy
-putrified
+putrifi
 puts
 putter
 putting
@@ -16250,7 +16250,7 @@ puzzled
 puzzles
 py
 pygmalion
-pygmies
+pygmi
 pygmy
 pyramid
 pyramides
@@ -16276,19 +16276,19 @@ quak
 quake
 quakes
 qualification
-qualified
-qualifies
+qualifi
+qualifi
 qualify
 qualifying
 qualite
-qualities
+qualiti
 quality
 qualm
 qualmish
 quam
 quand
 quando
-quantities
+quantiti
 quantity
 quare
 quarrel
@@ -16298,7 +16298,7 @@ quarrelling
 quarrelous
 quarrels
 quarrelsome
-quarries
+quarri
 quarry
 quart
 quarter
@@ -16347,7 +16347,7 @@ quicksand
 quicksands
 quicksilverr
 quid
-quiddities
+quidditi
 quiddits
 quier
 quiet
@@ -16505,7 +16505,7 @@ rarely
 rareness
 rarer
 rarest
-rarities
+rariti
 rarity
 rascal
 rascalliest
@@ -16525,7 +16525,7 @@ rately
 rates
 rather
 ratherest
-ratified
+ratifi
 ratifiers
 ratify
 rating
@@ -16688,7 +16688,7 @@ recov
 recover
 recoverable
 recovered
-recoveries
+recoveri
 recovers
 recovery
 recreant
@@ -16854,8 +16854,8 @@ remains
 remark
 remarkable
 remediate
-remedied
-remedies
+remedi
+remedi
 remedy
 rememb
 remember
@@ -16941,8 +16941,8 @@ replenish
 replenished
 replete
 replication
-replied
-replies
+repli
+repli
 repliest
 reply
 replying
@@ -17246,7 +17246,7 @@ ridiculous
 riding
 rids
 rien
-ries
+rie
 rifle
 rift
 rifted
@@ -17455,7 +17455,7 @@ roy
 royal
 royalize
 royally
-royalties
+royalti
 royalty
 roynish
 rs
@@ -17464,7 +17464,7 @@ rub
 rubb
 rubbing
 rubbish
-rubies
+rubi
 rubious
 rubs
 ruby
@@ -17507,7 +17507,7 @@ rulers
 rules
 ruling
 rumble
-ruminaies
+ruminai
 ruminat
 ruminate
 ruminated
@@ -17595,7 +17595,7 @@ safeguard
 safely
 safer
 safest
-safeties
+safeti
 safety
 saffron
 sag
@@ -17629,7 +17629,7 @@ salisbury
 sall
 sallet
 sallets
-sallies
+salli
 sallow
 sally
 salmon
@@ -17659,13 +17659,13 @@ sampson
 samson
 samsons
 sancta
-sanctified
-sanctifies
+sanctifi
+sanctifi
 sanctify
-sanctimonies
+sanctimoni
 sanctimonious
 sanctimony
-sanctities
+sanctiti
 sanctity
 sanctuarize
 sanctuary
@@ -17708,8 +17708,8 @@ satire
 satirical
 satis
 satisfaction
-satisfied
-satisfies
+satisfi
+satisfi
 satisfy
 satisfying
 saturday
@@ -17988,7 +17988,7 @@ seconded
 seconds
 secrecy
 secret
-secretaries
+secretari
 secretary
 secretly
 secrets
@@ -18483,7 +18483,7 @@ sickens
 sicker
 sickle
 sicklemen
-sicklied
+sickli
 sickliness
 sickly
 sickness
@@ -18495,7 +18495,7 @@ sides
 siege
 sieges
 sienna
-sies
+sie
 sieve
 sift
 sifted
@@ -18515,16 +18515,16 @@ signet
 signieur
 significant
 significants
-signified
-signifies
+signifi
+signifi
 signify
 signifying
 signior
-signiories
+signiori
 signiors
 signiory
 signor
-signories
+signori
 signs
 signum
 silenc
@@ -18590,7 +18590,7 @@ singly
 sings
 singular
 singulariter
-singularities
+singulariti
 singularity
 singuled
 sinister
@@ -18639,7 +18639,7 @@ skains
 skamble
 skein
 skelter
-skies
+ski
 skilful
 skilfully
 skill
@@ -18889,7 +18889,7 @@ soberly
 sobriety
 sobs
 sociable
-societies
+societi
 society
 socks
 socrates
@@ -18925,7 +18925,7 @@ solely
 solem
 solemn
 solemness
-solemnities
+solemniti
 solemnity
 solemniz
 solemnize
@@ -18971,7 +18971,7 @@ sonneting
 sonnets
 sons
 sont
-sonties
+sonti
 soon
 sooner
 soonest
@@ -18990,7 +18990,7 @@ sops
 sorcerer
 sorcerers
 sorceress
-sorceries
+sorceri
 sorcery
 sore
 sorel
@@ -19105,9 +19105,9 @@ spear
 speargrass
 spears
 special
-specialities
+specialiti
 specially
-specialties
+specialti
 specialty
 specify
 speciously
@@ -19161,8 +19161,8 @@ spicery
 spices
 spider
 spiders
-spied
-spies
+spi
+spi
 spieth
 spightfully
 spigot
@@ -19507,7 +19507,7 @@ stirrups
 stirs
 stitchery
 stitches
-stithied
+stithi
 stithy
 stoccadoes
 stoccata
@@ -19552,7 +19552,7 @@ store
 storehouse
 storehouses
 stores
-stories
+stori
 storm
 stormed
 storming
@@ -19604,7 +19604,7 @@ stratagems
 stratford
 strato
 straw
-strawberries
+strawberri
 strawberry
 straws
 strawy
@@ -19699,8 +19699,8 @@ stuck
 studded
 student
 students
-studied
-studies
+studi
+studi
 studious
 studiously
 studs
@@ -19718,7 +19718,7 @@ stumps
 stung
 stupefy
 stupid
-stupified
+stupifi
 stuprum
 sturdy
 sty
@@ -19755,7 +19755,7 @@ subscribed
 subscribes
 subscription
 subsequent
-subsidies
+subsidi
 subsidy
 subsist
 subsisting
@@ -19769,7 +19769,7 @@ substitution
 subtile
 subtilly
 subtle
-subtleties
+subtleti
 subtlety
 subtly
 subtractors
@@ -19852,8 +19852,8 @@ suits
 suivez
 sullen
 sullens
-sullied
-sullies
+sulli
+sulli
 sully
 sulph
 sulpherous
@@ -19930,8 +19930,8 @@ supplicant
 supplication
 supplications
 supplie
-supplied
-supplies
+suppli
+suppli
 suppliest
 supply
 supplyant
@@ -19968,7 +19968,7 @@ surecard
 surely
 surer
 surest
-sureties
+sureti
 surety
 surfeit
 surfeited
@@ -20220,7 +20220,7 @@ talks
 tall
 taller
 tallest
-tallies
+talli
 tallow
 tally
 talons
@@ -20251,14 +20251,14 @@ tap
 tape
 taper
 tapers
-tapestries
+tapestri
 tapestry
 taphouse
 tapp
 tapster
 tapsters
 tar
-tardied
+tardi
 tardily
 tardiness
 tardy
@@ -20273,8 +20273,8 @@ tarquins
 tarr
 tarre
 tarriance
-tarried
-tarries
+tarri
+tarri
 tarry
 tarrying
 tart
@@ -20423,7 +20423,7 @@ terrene
 terrestrial
 terrible
 terribly
-territories
+territori
 territory
 terror
 terrors
@@ -20435,8 +20435,8 @@ tested
 tester
 testern
 testify
-testimonied
-testimonies
+testimoni
+testimoni
 testimony
 testiness
 testril
@@ -20546,7 +20546,7 @@ thirsting
 thirsts
 thirsty
 thirteen
-thirties
+thirti
 thirtieth
 thirty
 this
@@ -20688,8 +20688,8 @@ tides
 tidings
 tidy
 tie
-tied
-ties
+tie
+tie
 tiff
 tiger
 tigers
@@ -20921,7 +20921,7 @@ traffickers
 traffics
 tragedian
 tragedians
-tragedies
+tragedi
 tragedy
 tragic
 tragical
@@ -21008,10 +21008,10 @@ treasons
 treasure
 treasurer
 treasures
-treasuries
+treasuri
 treasury
 treat
-treaties
+treati
 treatise
 treats
 treaty
@@ -21054,7 +21054,7 @@ tribulation
 tribunal
 tribune
 tribunes
-tributaries
+tributari
 tributary
 tribute
 tributes
@@ -21065,7 +21065,7 @@ trickling
 tricks
 tricksy
 trident
-tried
+tri
 trier
 trifle
 trifled
@@ -21118,13 +21118,13 @@ troiluses
 trojan
 trojans
 troll
-tromperies
+tromperi
 trompet
 troop
 trooping
 troops
 trop
-trophies
+trophi
 trophy
 tropically
 trot
@@ -21336,7 +21336,7 @@ umpires
 un
 unable
 unaccommodated
-unaccompanied
+unaccompani
 unaccustom
 unaching
 unacquainted
@@ -21386,9 +21386,9 @@ unbinds
 unbitted
 unbless
 unblest
-unbloodied
+unbloodi
 unblown
-unbodied
+unbodi
 unbolt
 unbolted
 unbonneted
@@ -21415,7 +21415,7 @@ unbuckling
 unbuild
 unburden
 unburdens
-unburied
+unburi
 unburnt
 unburthen
 unbutton
@@ -21523,7 +21523,7 @@ undervalued
 underwent
 underwrit
 underwrite
-undescried
+undescri
 undeserved
 undeserver
 undeservers
@@ -21603,7 +21603,7 @@ unfool
 unforc
 unforced
 unforfeited
-unfortified
+unfortifi
 unfortunate
 unfought
 unfrequented
@@ -21638,7 +21638,7 @@ unhand
 unhandled
 unhandsome
 unhang
-unhappied
+unhappi
 unhappily
 unhappiness
 unhappy
@@ -21673,7 +21673,7 @@ united
 unity
 universal
 universe
-universities
+universiti
 university
 unjointed
 unjust
@@ -21728,7 +21728,7 @@ unmann
 unmanner
 unmannerd
 unmannerly
-unmarried
+unmarri
 unmask
 unmasked
 unmasking
@@ -21787,14 +21787,14 @@ unperfectness
 unpick
 unpin
 unpink
-unpitied
+unpiti
 unpitifully
 unplagu
 unplausive
 unpleas
 unpleasant
 unpleasing
-unpolicied
+unpolici
 unpolish
 unpolished
 unpolluted
@@ -21825,7 +21825,7 @@ unpruned
 unpublish
 unpurged
 unpurpos
-unqualitied
+unqualiti
 unqueen
 unquestion
 unquestionable
@@ -21874,8 +21874,8 @@ unrough
 unruly
 unsafe
 unsaluted
-unsanctified
-unsatisfied
+unsanctifi
+unsatisfi
 unsavoury
 unsay
 unscalable
@@ -21957,7 +21957,7 @@ unstuff
 unsubstantial
 unsuitable
 unsuiting
-unsullied
+unsulli
 unsunn
 unsur
 unsure
@@ -21987,7 +21987,7 @@ unthrift
 unthrifts
 unthrifty
 untie
-untied
+unti
 until
 untimber
 untimely
@@ -22005,7 +22005,7 @@ untrain
 untrained
 untread
 untreasur
-untried
+untri
 untrimmed
 untrod
 untrodden
@@ -22040,7 +22040,7 @@ unwares
 unwarily
 unwash
 unwatch
-unwearied
+unweari
 unwed
 unwedgeable
 unweeded
@@ -22147,7 +22147,7 @@ usual
 usually
 usurer
 usurers
-usuries
+usuri
 usuring
 usurp
 usurpation
@@ -22228,7 +22228,7 @@ vanished
 vanishes
 vanishest
 vanishing
-vanities
+vaniti
 vanity
 vanquish
 vanquished
@@ -22249,7 +22249,7 @@ variable
 variance
 variation
 variations
-varied
+vari
 variest
 variety
 varld
@@ -22355,12 +22355,12 @@ vergers
 verges
 verier
 veriest
-verified
+verifi
 verify
 verily
 veritable
 verite
-verities
+veriti
 verity
 vermilion
 vermin
@@ -22411,7 +22411,7 @@ vict
 victims
 victor
 victoress
-victories
+victori
 victorious
 victors
 victory
@@ -22424,7 +22424,7 @@ vides
 videsne
 vidi
 vie
-vied
+vie
 vienna
 view
 viewest
@@ -22450,12 +22450,12 @@ villager
 villagery
 villages
 villain
-villainies
+villaini
 villainous
 villainously
 villains
 villainy
-villanies
+villani
 villanous
 villany
 villiago
@@ -22567,7 +22567,7 @@ volume
 volumes
 volumnia
 volumnius
-voluntaries
+voluntari
 voluntary
 voluptuously
 voluptuousness
@@ -22578,7 +22578,7 @@ vor
 vore
 vortnight
 vot
-votaries
+votari
 votarist
 votarists
 votary
@@ -22834,8 +22834,8 @@ weapons
 wear
 wearer
 wearers
-wearied
-wearies
+weari
+weari
 weariest
 wearily
 weariness
@@ -23305,8 +23305,8 @@ worms
 wormwood
 wormy
 worn
-worried
-worries
+worri
+worri
 worry
 worrying
 worse
@@ -23323,9 +23323,9 @@ worst
 worsted
 wort
 worth
-worthied
+worthi
 worthier
-worthies
+worthi
 worthiest
 worthily
 worthiness
@@ -23513,7 +23513,7 @@ youth
 youthful
 youths
 youtli
-zanies
+zani
 zany
 zeal
 zealous
