@@ -1,3 +1,5 @@
+/* This is from https://github.com/mrordinaire/rust-stem */
+
 #![crate_id = "porter#0.1.0"]
 #![crate_type = "lib"]
 
