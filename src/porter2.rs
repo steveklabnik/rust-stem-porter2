@@ -33,16 +33,7 @@ impl Stemmer {
 
     /// stem.ends(s) is true <=> [0, k) ends with the string s.
     pub fn ends(&mut self, s: &str) -> bool {
-        let len = s.len();
-        let k = self.k;
-        if s[len - 1] != self.b.get(k-1).to_byte() { return false } /* tiny speed-up */
-        if len > k { return false }
-        let mut iter = s.bytes();
-        for ac in self.b.slice(k - len, k).iter() {
-            if ac.to_byte() != iter.next().unwrap() { return false }
-        }
-        self.j = k - len;
-        return true;
+        self.get().as_slice().ends_with(s)
     }
 
     pub fn step1a(&mut self) {
