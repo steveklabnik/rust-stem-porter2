@@ -68,6 +68,13 @@ impl Stemmer {
             } else {
                 self.k -= 1;
             }
+        } else if self.ends("us") || self.ends("ss") {
+            /* do nothing */
+        } else if self.ends("s") {
+            self.j = self.k - 2;
+            if self.has_vowel() {
+                self.k -= 1;
+            }
         }
     }
 }
