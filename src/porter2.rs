@@ -26,6 +26,29 @@ impl Stemmer {
         }
     }
 
+    /// stem.is_consonant(i) is true <=> stem[i] is a consonant
+    pub fn is_consonant(&self, i: uint) -> bool {
+        match self.b.get(i).to_char() {
+            'a' | 'e' | 'i' | 'o' | 'u' => false,
+            'y' => if i == 0 {
+                true
+            } else {
+                !self.is_consonant(i - 1)
+            },
+            _ => true,
+        }
+    }
+
+    /// stem.has_vowel() is TRUE <=> [0, j-1) contains a vowel
+    pub fn has_vowel(&self) -> bool {
+        for i in range(0, self.j) {
+            if !self.is_consonant(i) {
+                return true;
+            }
+        }
+        return false;
+    }
+
     pub fn get(&self) -> String {
         let borrowed = self.b.slice_to(self.k);
         borrowed.as_str_ascii().into_string()
