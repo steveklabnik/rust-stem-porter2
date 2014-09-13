@@ -39,9 +39,9 @@ impl Stemmer {
         }
     }
 
-    /// stem.has_vowel() is TRUE <=> [0, j-1) contains a vowel
-    pub fn has_vowel(&self) -> bool {
-        for i in range(0, self.j) {
+    /// stem.has_vowel() is TRUE <=> [0, range_end-1) contains a vowel
+    pub fn has_vowel(&self, range_end: uint) -> bool {
+        for i in range(0, range_end) {
             if !self.is_consonant(i) {
                 return true;
             }
@@ -71,8 +71,7 @@ impl Stemmer {
         } else if self.ends("us") || self.ends("ss") {
             /* do nothing */
         } else if self.ends("s") {
-            self.j = self.k - 2;
-            if self.has_vowel() {
+            if self.has_vowel(self.k - 2) {
                 self.k -= 1;
             }
         }
