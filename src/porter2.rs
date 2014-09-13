@@ -68,9 +68,7 @@ impl Stemmer {
             } else {
                 self.k -= 1;
             }
-        } else if self.ends("us") || self.ends("ss") {
-            /* do nothing */
-        } else if self.ends("s") {
+        } else if !(self.ends("us") || self.ends("ss")) && self.ends("s") {
             if self.has_vowel(self.k - 2) {
                 self.k -= 1;
             }
