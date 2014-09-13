@@ -3,23 +3,19 @@ extern crate porter2;
 use std::io::File;
 use std::io::BufferedReader;
 use std::path;
+use std::os;
 
 fn main () {
-    let input = File::open(&path::Path::new("test-data/voc.txt")).unwrap();
-    let mut input_reader = BufferedReader::new(input);
+    let args = os::args();
+    let filename = args.get(1).as_slice();
 
-    let mut output = match File::create(&path::Path::new("test-data/porter2-output.txt")) {
-        Ok(file) => file,
-        Err(_)   => fail!("Something went wrong with creating the file"),
-    };
+    let input = File::open(&path::Path::new(filename)).unwrap();
+    let mut input_reader = BufferedReader::new(input);
 
     loop {
         match input_reader.read_line() {
             Ok(word) => match porter2::get(word.as_slice().trim()) {
-                Ok(result) => match output.write_line(result.as_slice()) {
-                    Ok(_)  => continue,
-                    Err(_) => fail!("Couldn't write to file"),
-                },
+                Ok(result) => println!("{}", result),
                 Err(_)     => println!("Something went wrong with stemming"),
             },
             Err(_) => break,
