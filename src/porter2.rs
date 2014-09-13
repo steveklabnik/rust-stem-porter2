@@ -26,6 +26,43 @@ impl Stemmer {
         }
     }
 
+    /// stem.measure() measures the number of consonant sequences in [0, j).
+    /// if c is a consonant sequence and v a vowel sequence, and <..> indicates
+    /// arbitrary presence,
+    ///
+    ///    <c><v>       gives 0
+    ///    <c>vc<v>     gives 1
+    ///    <c>vcvc<v>   gives 2
+    ///    <c>vcvcvc<v> gives 3
+    ///    ....
+    ///
+    pub fn measure(&self) -> uint {
+        let mut n = 0u;
+        let mut i = 0u;
+        let j = self.j;
+        loop {
+            if i >= j { return n }
+            if !self.is_consonant(i) { break }
+            i += 1;
+        }
+        i += 1;
+        loop {
+            loop {
+                if i >= j { return n }
+                if self.is_consonant(i) { break }
+                i += 1;
+            }
+            i += 1;
+            n += 1;
+            loop {
+                if i >= j { return n }
+                if !self.is_consonant(i) { break }
+                i += 1;
+            }
+            i += 1;
+        }
+    }
+
     /// stem.is_consonant(i) is true <=> stem[i] is a consonant
     pub fn is_consonant(&self, i: uint) -> bool {
         match self.b.get(i).to_char() {
