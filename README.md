@@ -21,6 +21,15 @@ I'm using [Cargo](http://crates.io/)!!! Just run `cargo test`!!!!
 
 The tests are really just one test with a lot of cases-- it runs through the words in `test-data/voc.txt` and asserts that the stem of the word matches the corresponding line in `test-data/porter2-output.txt`.
 
+Stemming
+========
+
+After compiling, you should have a binary in target/stem that will read a list of words, one per line, from stdin and print their stems to stdout.
+
+Example:
+
+    `./target/stem < test-data/voc.txt > output.txt`
+
 License
 =======
 
