@@ -1,6 +1,3 @@
-#![crate_id = "porter2#0.1.0"]
-#![crate_type = "lib"]
-
 use std::ascii;
 use std::ascii::Ascii;
 use std::vec::Vec;
@@ -65,7 +62,7 @@ impl Stemmer {
 
     /// stem.is_consonant(i) is true <=> stem[i] is a consonant
     pub fn is_consonant(&self, i: uint) -> bool {
-        match self.b.get(i).to_char() {
+        match self.b[i].to_char() {
             'a' | 'e' | 'i' | 'o' | 'u' => false,
             'y' => if i == 0 {
                 true
