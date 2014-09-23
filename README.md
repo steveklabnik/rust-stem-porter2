@@ -28,7 +28,7 @@ After compiling, you should have a binary in target/stem that will read a list o
 
 Example:
 
-    `./target/stem < test-data/voc.txt > output.txt`
+    ./target/stem < test-data/voc.txt > output.txt
 
 License
 =======
